@@ -1,6 +1,6 @@
 {
   "name": "request-promise",
-  "version": "4.2.6",
+  "version": "4.2.6-lineaje-01",
   "description": "The simplified HTTP request client 'request' with Promise support. Powered by Bluebird.",
   "keywords": [
     "xhr",
@@ -21,10 +21,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/request/request-promise.git"
+    "url": "https://github.com/lineaje-labs-gos/request-request-promise"
   },
   "author": "Nicolai Kamenzky (https://github.com/analog-nico)",
   "license": "ISC",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/request/request-promise/issues"
   },
